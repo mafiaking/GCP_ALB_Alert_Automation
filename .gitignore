@@ -1,0 +1,4 @@
+service-account-key.json
+downtime_state.json
+.venv/
+__pycache__/
